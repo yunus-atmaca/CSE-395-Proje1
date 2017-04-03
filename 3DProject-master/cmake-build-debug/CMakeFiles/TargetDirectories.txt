@@ -1,0 +1,3 @@
+C:/Users/mpolatcan-gyte_cse/ClionProjects/3DProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/mpolatcan-gyte_cse/ClionProjects/3DProject/cmake-build-debug/CMakeFiles/Test.dir
+C:/Users/mpolatcan-gyte_cse/ClionProjects/3DProject/cmake-build-debug/CMakeFiles/edit_cache.dir
